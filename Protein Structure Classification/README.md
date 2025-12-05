@@ -4,7 +4,8 @@ This folder contains content from when I led a hands-on machine learning worksho
 
 ## Project Overview
 
-This project uses protein metadata from crystallography experiments to predict protein functional classifications. Built as a series of progressive workshops, participants learn foundational machine learning techniques while working with real biological data.
+**The data file used for this project can be downloaded here: https://www.kaggle.com/datasets/shahir/protein-data-set?resource=download
+**This project uses protein metadata from crystallography experiments to predict protein functional classifications. Built as a series of progressive workshops, participants learn foundational machine learning techniques while working with real biological data.
 
 **Dataset**: 99,529 protein structures from the Protein Data Bank  
 **Task**: Multi-class classification predicting protein function from structural metadata  
